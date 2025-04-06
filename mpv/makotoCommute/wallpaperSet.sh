@@ -1,0 +1,1 @@
+mpvpaper -s -o "--loop-file=inf" '*' ~/persona/p3/makotoCommute/makoto.mp4

@@ -1,0 +1,6 @@
+configuration {
+	font: "OMORI_GAME 20";
+}
+
+
+@theme "~/dotfiles/rofi/omori/omori.rasi"

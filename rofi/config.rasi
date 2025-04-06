@@ -1,0 +1,9 @@
+configuration {
+    env: [
+        "GTK_IM_MODULE=fctix",
+        "QT_IM_MODULE=fctix",
+        "XMODIFIERS=@im=fctix",
+        "CLUTTER_IM_MODULE=fctix",
+        "INPUT_METHOD=fctix"
+    ];
+}

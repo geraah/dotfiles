@@ -1,0 +1,19 @@
+[terminal]
+shell = "sptlrx"
+[font]
+size=20
+offset = { y = 7, x = 0 }
+
+[font.normal]
+family = "p5hatty"
+style = "Regular"
+
+
+[window]
+class = { general = "lyrics" }
+[window.position]
+x = 580 
+y = 12
+[window.dimensions]
+columns = 133
+lines = 40

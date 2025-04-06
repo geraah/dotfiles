@@ -1,0 +1,1 @@
+mpvpaper -s -o "--script=~/dotfiles/mpv/makotoWallpaper/mpv.lua" '*' ~/persona/p3/makotoAnimated/
